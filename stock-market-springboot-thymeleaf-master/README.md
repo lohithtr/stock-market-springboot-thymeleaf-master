@@ -52,7 +52,7 @@ Email API key (for OTP email verification)
 
 Steps
 Clone the repository:
-git clone https://github.com/saishkulkarni/stock-market-springboot-thymeleaf.git
+git clone https://github.com/lohithtr/stock-market-springboot-thymeleaf.git
 
 Set up the MySQL Database:
 Create a new database for the application.
